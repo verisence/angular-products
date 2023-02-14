@@ -1,0 +1,36 @@
+.summary {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #8687E7;
+  border-radius: 5px;
+  padding: .5rem;
+  text-decoration: underline #FF4949;
+  text-underline-offset: .2rem;
+}
+
+.prod-no {
+  color: #FF4949;
+}
+
+.sub {
+  font-family: 'Julius Sans One',
+    sans-serif;
+  margin-top: 20px;
+}
+
+.charts {
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 1px;
+}
+
+.chart {
+  background-color: #1b1c22;
+  border: 1px solid #36FFDB;
+  margin: 10px 0;
+  border-radius: 5px;
+  color: #fafafa;
+  padding: .4rem;
+}
